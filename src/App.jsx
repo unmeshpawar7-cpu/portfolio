@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import profilePic from './assets/image.png'
 import Portfolio from '../components/Portfolio'
 
 
